@@ -1490,3 +1490,5 @@
 
 2002-01-15: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
 
+2002-01-16: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
+
