@@ -5598,3 +5598,5 @@
 
 2007-08-31: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
 
+2007-09-01: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
+
