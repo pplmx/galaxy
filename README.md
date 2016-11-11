@@ -12316,3 +12316,5 @@
 
 2016-11-10: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
 
+2016-11-11: A day the Milky Way and the Andromeda Galaxy have not collided. Record it.
+
