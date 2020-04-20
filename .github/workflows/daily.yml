@@ -26,7 +26,7 @@ jobs:
                     git config --global user.name 'mystic'
                     git config --global user.email '215104920@qq.com'
 
-            # Record
+            # Record (use record.sh or record2.sh)
             -
                 name: Recording
                 run: |
