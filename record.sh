@@ -5,7 +5,7 @@ end=$(date '+%s')
 list=$(seq "${begin}" 86400 "${end}")
 
 for i in ${list}; do
-    date -u --date=@"${i}" "+%Y-%m-%d: A day the milky way and the Andromeda Galaxy have not collided. Record it." >>./README.md
+    date -u --date=@"${i}" "+%Y-%m-%d: A day the Milky Way and the Andromeda Galaxy have not collided. Record it." >>./README.md
     echo >>./README.md
 
     echo "${i}" >./begin
