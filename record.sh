@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-begin=$(($(cat ./begin) + 86400)) # init: 946656000 $ 2000-01-01
+
+# init: 946656000 ==> 2000-01-01 00:00:00, GMT+08:00
+# 946684800 ==> 2000-01-01 00:00:00, UTC
+begin=$(($(cat ./begin) + 86400))
 end=$(date '+%s')
 
 list=$(seq "${begin}" 86400 "${end}")
