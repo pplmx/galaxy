@@ -2,6 +2,7 @@ name: Has the Milky Way collided with the Andromeda Galaxy?
 
 # daily job
 on:
+    workflow_dispatch:
     schedule:
         -
             # 16:00 UTC <==> 00:00(next day) GMT +08:00
