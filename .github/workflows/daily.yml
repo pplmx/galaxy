@@ -6,7 +6,7 @@ on:
     schedule:
         -
             # 16:00 UTC <==> 00:00(next day) GMT +08:00
-            cron: 0 16 * * *
+            cron: 0 0 * * *
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
